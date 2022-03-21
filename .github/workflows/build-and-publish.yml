@@ -13,8 +13,8 @@ jobs:
           python-version: '3.9'
       - name: Test
         run: |  
-          - dependencies.sh
-          - pytest
+          sh dependencies.sh
+          pytest
 
   publish-to-docker-hub:
     if: ${{ github.ref == 'refs/heads/DART-1347-publish-to-docker-hub' || startsWith(github.ref, 'refs/tags/v') }}
