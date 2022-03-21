@@ -1,7 +1,7 @@
-# Qntfy NER analytic
-
+# Qntfy NER analytic    
 Simple python-based analytic for tagging named entities in documents.
-Complies with CDR schema.
+Complies with CDR schema.  
+[![build and publish](https://github.com/twosixlabs-dart/qntfy-ner/actions/workflows/build-and-publish.yml/badge.svg)](https://github.com/twosixlabs-dart/qntfy-ner/actions/workflows/build-and-publish.yml)
 
 ## Swagger-rendered HTML documentation
 
