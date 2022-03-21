@@ -1,0 +1,202 @@
+[
+  {
+    "License": "BSD License",
+    "Name": "Jinja2",
+    "Version": "3.0.0a1"
+  },
+  {
+    "License": "BSD License",
+    "Name": "MarkupSafe",
+    "Version": "2.0.0a1"
+  },
+  {
+    "License": "MIT License",
+    "Name": "attrs",
+    "Version": "20.3.0"
+  },
+  {
+    "License": "MIT License",
+    "Name": "blis",
+    "Version": "0.7.4"
+  },
+  {
+    "License": "MIT License",
+    "Name": "catalogue",
+    "Version": "2.0.1"
+  },
+  {
+    "License": "MIT License",
+    "Name": "ceeder",
+    "Version": "0.0.3"
+  },
+  {
+    "License": "Mozilla Public License 2.0 (MPL 2.0)",
+    "Name": "certifi",
+    "Version": "2020.12.5"
+  },
+  {
+    "License": "GNU Library or Lesser General Public License (LGPL)",
+    "Name": "chardet",
+    "Version": "4.0.0"
+  },
+  {
+    "License": "BSD License",
+    "Name": "click",
+    "Version": "7.1.2"
+  },
+  {
+    "License": "MIT License",
+    "Name": "cymem",
+    "Version": "2.0.5"
+  },
+  {
+    "License": "MIT",
+    "Name": "en-core-web-lg",
+    "Version": "3.0.0"
+  },
+  {
+    "License": "Apache Software License",
+    "Name": "falcon",
+    "Version": "2.0.0"
+  },
+  {
+    "License": "MIT License",
+    "Name": "gunicorn",
+    "Version": "20.0.4"
+  },
+  {
+    "License": "BSD License",
+    "Name": "idna",
+    "Version": "2.10"
+  },
+  {
+    "License": "MIT License",
+    "Name": "iniconfig",
+    "Version": "1.1.1"
+  },
+  {
+    "License": "MIT License",
+    "Name": "jsonschema",
+    "Version": "3.2.0"
+  },
+  {
+    "License": "MIT License",
+    "Name": "murmurhash",
+    "Version": "1.0.5"
+  },
+  {
+    "License": "BSD License",
+    "Name": "numpy",
+    "Version": "1.20.0"
+  },
+  {
+    "License": "Apache Software License, BSD License",
+    "Name": "packaging",
+    "Version": "20.9"
+  },
+  {
+    "License": "Apache Software License",
+    "Name": "pathy",
+    "Version": "0.3.5"
+  },
+  {
+    "License": "MIT License",
+    "Name": "pluggy",
+    "Version": "0.13.1"
+  },
+  {
+    "License": "MIT License",
+    "Name": "preshed",
+    "Version": "3.0.5"
+  },
+  {
+    "License": "MIT License",
+    "Name": "py",
+    "Version": "1.10.0"
+  },
+  {
+    "License": "MIT License",
+    "Name": "pydantic",
+    "Version": "1.7.3"
+  },
+  {
+    "License": "MIT License",
+    "Name": "pyparsing",
+    "Version": "2.4.7"
+  },
+  {
+    "License": "MIT License",
+    "Name": "pyrsistent",
+    "Version": "0.17.3"
+  },
+  {
+    "License": "MIT License",
+    "Name": "pytest",
+    "Version": "6.2.2"
+  },
+  {
+    "License": "Apache Software License",
+    "Name": "requests",
+    "Version": "2.25.1"
+  },
+  {
+    "License": "MIT License",
+    "Name": "six",
+    "Version": "1.15.0"
+  },
+  {
+    "License": "MIT License",
+    "Name": "smart-open",
+    "Version": "3.0.0"
+  },
+  {
+    "License": "MIT License",
+    "Name": "spacy",
+    "Version": "3.0.1"
+  },
+  {
+    "License": "UNKNOWN",
+    "Name": "spacy-analytic",
+    "Version": "0.0.0"
+  },
+  {
+    "License": "MIT License",
+    "Name": "spacy-legacy",
+    "Version": "3.0.1"
+  },
+  {
+    "License": "MIT License",
+    "Name": "srsly",
+    "Version": "2.4.0"
+  },
+  {
+    "License": "MIT License",
+    "Name": "thinc",
+    "Version": "8.0.1"
+  },
+  {
+    "License": "MIT License",
+    "Name": "toml",
+    "Version": "0.10.2"
+  },
+  {
+    "License": "MIT License, Mozilla Public License 2.0 (MPL 2.0)",
+    "Name": "tqdm",
+    "Version": "4.56.0"
+  },
+  {
+    "License": "MIT License",
+    "Name": "typer",
+    "Version": "0.3.2"
+  },
+  {
+    "License": "MIT License",
+    "Name": "urllib3",
+    "Version": "1.26.3"
+  },
+  {
+    "License": "MIT",
+    "Name": "wasabi",
+    "Version": "0.8.2"
+  }
+]

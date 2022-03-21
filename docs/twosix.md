@@ -3,10 +3,6 @@
 Simple python-based analytic for tagging named entities in documents.
 Complies with CDR schema.
 
-## Swagger-rendered HTML documentation
-
-Can be found [here](https://worldmodelers.pages.qntfy.com/spacy-analytic/).
-
 ## Introduction
 
 This project uses Python, Flask and gunicorn in order to respond to incoming
@@ -59,55 +55,3 @@ They are also listed below:
 'NORP', 'ORDINAL', 'ORG', 'PERCENT', 'PERSON', 'PRODUCT', 'QUANTITY',
 'TIME', 'WORK_OF_ART'
 ```
-### Override maximum document length
-
-Set `MAX_DOCUMENT_LENGTH` environment variable to process text fields with over
-the default of `1000000` (1 million) characters.
-
-### Benchmarks
-
-[Read more](./benchmarks/benchmarks.md).
-
-
-## Delivery information
-
-### Source Code
-
-#### Service or integration code such as REST APIs or web applications
-
-Contained in this repository.
-
-#### Source code for model training
-
-Available at the [spacy website][spacy-training].
-
-### Models
-
-#### Inventory of any open source / public models that were used
-
-Available at the [spacy website][spacy-models].
-
-#### Information for how to obtain these models
-
-Consult [this script](./dependencies.sh) or above site.
-
-### Documentation
-
-#### Reference information on the model or algorithm that is used for each analytic
-
-Available at the [spacy website][spacy-models].
-
-#### Documentation on how to train and deploy new models
-
-Available at the [spacy website][spacy-training].
-
-#### Information on data cleaning, preparation, or formatting that is required for each model
-
-Available at the [spacy website][spacy-models].
-
-### Data
-
-This model was not trained on data provided by TwoSix.
-
-[spacy-training]: https://spacy.io/usage/training
-[spacy-models]: https://spacy.io/models/en
